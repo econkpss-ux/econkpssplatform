@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790872240435,
+      "tag": "0000_guard_membership_approval",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790872316254,
+      "tag": "0001_guard_new_profile_approval",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790935266184,
+      "tag": "0002_push_tokens",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791911520000,
+      "tag": "0003_push_tokens_update_policy",
+      "breakpoints": true
+    }
+  ]
+}

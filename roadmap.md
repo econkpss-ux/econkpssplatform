@@ -1,0 +1,10 @@
+- [x] Açılış etiketini kaldır; seri göstergesini ve oyun geri bildirimlerini tamamla.
+- [x] Yönetimde üyelik onayı/reddi ve kişisel mesaj; eşleştirmelerde tam liste, arama ve ders filtresi.
+- [x] Tip, derleme ve canlı tarayıcı akışını doğrula.
+- [x] Yüklenen EconKPSS logosunu tüm cihazların kurulum simgelerine uygula.
+- [x] Onaysız üyeler için erişim öncesi kalıcı bilgilendirme ekranı (kontrollü bekleyen durum testi; mevcut bekleyen üye yok).
+- [x] Yönetici tarafından ad-soyad ve e-posta düzenleme; yönetici oturumuyla kaydet ve yeniden oku.
+- [x] Mobil yönetim sekmeleri ve çıkış penceresi taşmalarını düzelt; 320 ve 390 piksel testleri.
+- [x] Uyumlu karanlık mod ve tercih kaydı; yenileme sonrası doğrulandı.
+- [x] Simge dosyaları, boyutları ve erişim bağlantılarını doğrula.
+- [ ] Gerçek iPhone kurulum simgesini doğrula — fiziksel cihaz erişimi gerekli; tarayıcı testi bunu doğrulayamaz.
